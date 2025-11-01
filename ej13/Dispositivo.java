@@ -1,5 +1,6 @@
 package ej13;
 
+
 public class Dispositivo {
     // << Atributos de Clase >>
     protected static final double max = 0.01;
