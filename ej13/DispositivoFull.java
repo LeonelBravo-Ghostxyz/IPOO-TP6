@@ -39,4 +39,7 @@ public class DispositivoFull extends Dispositivo {
 
         return res;
     }
+    public DispositivoFull clone(){
+        return new DispositivoFull(p1, p2, p3, p4);
+    }
 }
